@@ -1,0 +1,1 @@
+# Individual-Project: In this project i analyzed data from different banks and their stocks from 2006-2023. In my project it showcases different graphs and the datafrme of th eamoubt of stocks each bank had. This includes its closed stocks and much more.
